@@ -83,6 +83,7 @@ plan = find_plan(initial_state, goal_state, actions)
 print(plan)
 '''
 ```
+
 <br>
 ## Example - 1
 ```py
