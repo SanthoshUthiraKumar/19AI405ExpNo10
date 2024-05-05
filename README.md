@@ -13,6 +13,7 @@ To Implementation of Classical Planning Algorithm
 </ol>
 
 ## PROGRAM:
+
 ```py
 def is_goal_state(current_state, goal_state):
     return current_state == goal_state
@@ -83,7 +84,6 @@ plan = find_plan(initial_state, goal_state, actions)
 print(plan)
 '''
 ```
-<br>
 
 ## Example - 1
 ```py
